@@ -1,0 +1,42 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Visual Studio
+*.vs/
+
+# ASP.NET Core secrets
+secrets.json
+**/appsettings.Development.json
+
+# Logs
+*.log
+
+# Published outputs
+publish/
+out/
+
+# Others
+*.db
+*.sqlite
+*.pdb
+
+# dotnet tools
+tools/
+
+# Rider
+.idea/
+
+# Backup & temporary files
+*.tmp
+*.bak
+*.swp
